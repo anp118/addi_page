@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="relaxngschemaaddipat.rnc" type="application/relax-ng-compact-syntax"?>
+<root><letter>  
+        <sentence n="1">This letter, my very dear <pers name="Eliza-Hamilton" descr="wife">Eliza</pers>, will not be delivered to you, unless I shall first have <deathMent context="dying">terminated my earthly career</deathMent>; to begin, as I humbly hope from redeeming grace and divine mercy, <deathMent context="afterlife">a happy immortality</deathMent>.</sentence>
+        
+        <sentence n="2">If it had been possible for me to have avoided the interview, my <feeling type="love">love</feeling> for you and my precious <pers descr="children">children</pers> would have been alone a decisive motive.</sentence>
+        <sentence n="3"> But it was not possible, without sacrifices which would have rendered me <feeling type="integrity">unworthy</feeling> of your esteem.</sentence>
+        <sentence n="4">I need not tell you of the <feeling type="pain">pangs</feeling> I feel, from the idea of quitting you and exposing you to the <feeling type="pain">anguish</feeling> which I know you would feel.</sentence>
+        <sentence n="5">Nor could I dwell on the topic lest it should unman me.  </sentence>
+        <sentence n="6">The consolations of <religion>Religion</religion>, my beloved, can alone support you; and these you have a right to enjoy.</sentence>  
+        <sentence n="7">Fly to the bosom of your <religion>God</religion> and be <feeling type="love">comforted</feeling>.</sentence> 
+        <sentence n="8"> With my last idea; I shall cherish the <feeling type="hope">sweet hope</feeling> of <deathMent context="afterlife">meeting you in a better world</deathMent>.</sentence>
+        
+        <sentence n="9"> Adieu best of wives and best of Women.</sentence> 
+        <sentence n="10">Embrace all my darling <pers descr="children">Children</pers> for me.</sentence>
+        
+        <closing>Ever yours
+            
+            <pers name="Alexander-Hamilton" descr="husband"> A H</pers></closing>
+</letter></root>
+
