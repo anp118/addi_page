@@ -1,0 +1,22 @@
+body{
+    background: #EBB2CF;
+    color: #8B27AA;
+    margin: 100px;
+}
+p{
+    color: #A00151;
+}
+p.happy { color: #3BBE0B
+    
+}
+
+p.sad { color: #1A85B2
+    
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+
+}
